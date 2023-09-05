@@ -1,4 +1,3 @@
-st_digit(number):
-    last = abs(number) % 10
-    print("{}".format(last), end="")
-    return last
+#!/usr/bin/python3
+def add(a, b):
+    return a + b
